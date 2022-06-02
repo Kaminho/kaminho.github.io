@@ -1,4 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
 Domain: kaminho.github.io
-Token: a87b6dd549f98fe590c79daf6d08a181c2144194ddb591c42a7e461db29511d7
+Token: 9c162be5f551ba2f1981462c8ccb94eb92016e6a52569d108e210de586538c26
